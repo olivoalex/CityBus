@@ -1,7 +1,7 @@
 # City Bus
 O aplicativo de ônibus de Joinville
 
-#Política de privacidade do APP
+<b>Política de privacidade do APP</>
 
 Nenhuma informação pessoal sua será recolhida, dados de usabilidade do aplicativo serão usadas para o ajudar a tornar a sua visita a mais produtiva e agradável possível. A garantia da confidencialidade dos dados pessoais dos utilizadores do nosso aplicativo é importante para o aperfeiçoamento do seu uso. Todas as informações que trafegam pelo aplicativo City Bus serão tratadas em concordância com a Lei da Proteção de Dados Pessoais de 26 de outubro de 1998 (Lei n.º 67/98).
 
